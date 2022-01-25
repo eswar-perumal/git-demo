@@ -1,1 +1,2 @@
 common config file added by master
+config added by feature2
